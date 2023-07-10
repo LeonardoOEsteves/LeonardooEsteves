@@ -8,6 +8,20 @@
 Profissional de tecnologia da informação, com formação em Power BI, BI e Data Warehouse, segurança ofensiva, defensiva e desenvolvimento de jogos. Experiência e desenvolvimento com SQL Server, segurança de aplicações, edição de vídeo, CSS, comunicação, marketing digital e Streaming. 
 Ao longo da minha trajetória profissional, desenvolvi sistemas utilizando a linguagem de programação LUA e implementei soluções criativas que melhoraram significativamente a eficiência e a segurança tanto das equipes com as quais trabalhei, como a dos usuários.
 Minhas habilidades em testes de sistemas, juntamente com minha experiência em trabalhar com a comunidade e remodelagem de sistemas, me tornam uma adição valiosa a qualquer equipe de desenvolvimento. Contribuir para o sucesso de projetos e empresas inovadoras é um fator determinante da minha personalidade.
+<table>
+    <tr>
+        <th>My Website</th>
+        <th>My CV</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="website">🌐</a>
+        </td>
+        <td>
+            <a href="test">📃</a>
+        </td>
+    </tr>
+</table>
 
 
 ## 🌐 Socials:
