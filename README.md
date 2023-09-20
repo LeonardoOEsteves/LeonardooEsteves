@@ -10,7 +10,7 @@
     </tr>
     <tr>
         <td>
-            <a href="website">🌐</a>
+            <a href="https://horus-sigma.vercel.app/">🌐</a>
         </td>
         <td>
             <a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/leonardo-mollo+esteves/b61e4553-6678-4b93-b5a5-2f0d04c27239?view=html">📃</a>
