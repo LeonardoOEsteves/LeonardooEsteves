@@ -1,7 +1,7 @@
 ### Hello World!🌎 I'm Leonardo Esteves 💻
 
 - 🔭 I’m currently working on Web Development
-- 👯 I’m looking to collaborate on Cybersecurity projects
+- 👯 I’m looking to collaborate on Gaming projects
 
 <table>
     <tr>
